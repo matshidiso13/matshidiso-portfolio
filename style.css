@@ -1,3 +1,33 @@
 select {
     property : value
 }
+.navbar{
+    background-color: antiquewhite;
+    padding: 20px;
+    
+    
+}
+
+
+
+#Portfolio{
+    text-decoration: none;
+   
+}
+    
+#About{text-decoration: none;
+     margin-left: 500px;
+
+}
+#Project{
+    text-decoration: none;
+    margin-left: 200px;
+}
+#Contact{
+    text-decoration: none;
+   margin-left: 200px;
+
+
+
+}
+
