@@ -1,3 +1,4 @@
-select {
-    property : value
+p{
+    background-color: aqua;
+    font-style: normal;
 }
