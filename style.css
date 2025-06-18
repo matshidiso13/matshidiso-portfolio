@@ -1,6 +1,6 @@
 .navbar{
-    background-color: antiquewhite;
-    padding: 20px;  
+   background-color: aqua;
+    padding: 20px;
 }
 
 #Portfolio{
@@ -21,7 +21,8 @@
 
 h1{
     background-color: aqua;
-    text-align: center;   
+    text-align: center; 
+    padding: 20px;  
 }
 
 #Paragraph{
@@ -49,9 +50,11 @@ img{
     float: left;
     margin: 10px;
     text-align: start;
-    padding-left: 10px;
+    padding-left: 20px;
 }
-#contact{
+#details{
     background-color: aqua;
+   margin-top: 200px;
+   text-align: center;
 
-}
+} 
