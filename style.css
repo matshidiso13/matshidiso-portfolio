@@ -1,25 +1,19 @@
-#cv{float: left;
-    width: 100px;
-    height: 200px;
-    padding: 20px;
-    margin-left: 10px;
+#cv{width: 250px;
+    margin: 10px;
 }
-#term{
-    float: left;
-    width: 100px;
-    height: 200px;
-    padding: 20px;
-    margin-left: 10px;
-    display: flex;
+#term{width: 250px;
+    margin: 10px;
 }
 #js{
     float: left;
-    width: 100px;
-    height: 200px;
-    display: flex;
-    padding: 20px;
-    margin-left: 10px;
+    width: 250px;
+    margin: 10px;
+    padding-left: 10px;
+     
 }
-img{background-color: aqua;
-width: 400px;
-height: 100px;}
+img{
+    float: left;
+    margin: 10px;
+    text-align: start;
+    padding-left: 10px;
+}
