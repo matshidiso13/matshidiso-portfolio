@@ -52,6 +52,10 @@ img{
     text-align: start;
     padding-left: 20px;
 }
+
+h6{
+    background-color: aqua;
+}
 #details{
     background-color: aqua;
    margin-top: 200px;
