@@ -1,7 +1,6 @@
-
 .navbar{
-    background-color: antiquewhite;
-    padding: 20px;  
+   background-color: aqua;
+    padding: 20px;
 }
 
 #Portfolio{
@@ -20,3 +19,42 @@
    margin-left: 200px;
 }
 
+h1{
+    background-color: aqua;
+    text-align: center; 
+    padding: 20px;  
+}
+
+#Paragraph{
+
+background-color: aqua;
+padding: middle;
+text-align: center;
+height: 100px;
+width: auto;
+}
+#cv{width: 250px;
+    margin: 10px;
+}
+#term{width: 250px;
+    margin: 10px;
+}
+#js{
+    float: left;
+    width: 250px;
+    margin: 10px;
+    padding-left: 10px;
+     
+}
+img{
+    float: left;
+    margin: 10px;
+    text-align: start;
+    padding-left: 20px;
+}
+#details{
+    background-color: aqua;
+   margin-top: 200px;
+   text-align: center;
+
+} 
